@@ -49,7 +49,7 @@ video {
 
 /* specify what type of page transitions should be on the PWA */
 .page-enter-active, .page-leave-active {
-  transition: opacity 0.5s
+  transition: opacity 0.15s
 }
 
 .page-enter, .page-leave-to {
